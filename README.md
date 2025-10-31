@@ -1,4 +1,4 @@
-```markdown
+
 # recDEX_FHE: A Privacy-Focused DEX for Renewable Energy Credits 🌍💚
 
 recDEX_FHE is a decentralized exchange (DEX) designed specifically for the trading of tokenized renewable energy credits (RECs). Leveraging **Zama's Fully Homomorphic Encryption technology**, every transaction made on recDEX_FHE is FHE-encrypted, ensuring that the privacy of businesses' energy strategies and environmentally-friendly actions remains intact. This innovative exchange aims to reshape the renewable energy market by providing a secure and transparent trading platform.
